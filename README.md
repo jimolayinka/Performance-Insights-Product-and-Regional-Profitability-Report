@@ -42,11 +42,6 @@ The SUM of Sales was aggregated and analyzed alongside the Country field to iden
 A visual combining Product, Segment, and Sector was created, using the SUM of Sales as the legend. This provided a clear breakdown of product performance across different customer.
 
 
-- It identifies November 2014 as the peak month for profit
-- France in Europe has the most lucrative market.
-- The analysis further underscores the strong sales perf- ormance of the "Paseo" product, particularly within the Enterprise and Government sectors. 
-
-
 ### Findings 
 
 - It identifies November 2014 as the peak month for profit.
@@ -58,33 +53,28 @@ A visual combining Product, Segment, and Sector was created, using the SUM of Sa
 
 Recommendations Based on Data Findings
 
-1. Leverage Seasonal Profit Trends:
-
-Since November 2014 emerged as the peak month for profit, it is advisable to strategically plan product launches, promotional campaigns, and sales efforts around the months leading up to and including November. Analyzing historical trends further could help determine if this is a recurring seasonal pattern that can be capitalized upon annually.
-
-
-2. Expand Market Activities in France and Broader European Region:
-
-Given that France was identified as the most lucrative market within Europe, efforts should be made to intensify marketing, distribution, and partnership strategies in France. Additionally, consider exploring neighboring European countries with similar market dynamics to replicate this success.
+- 1. Leverage Seasonal Profit Trends:
+  - Since November 2014 emerged as the peak month for profit, it is advisable to strategically plan product launches, promotional campaigns, and sales efforts around the months leading up to and including November. Analyzing historical trends further could help determine if this is a recurring seasonal pattern that can be capitalized upon annually.
 
 
-3. Boost Investment in High-Performing Products and Segments:
-
-The strong performance of the “Paseo” product in the Enterprise and Government sectors suggests a clear market demand in these areas. It is recommended to:
-- Increase production and inventory levels for the Paseo product.
-- Tailor marketing campaigns to specifically target enterprise and government clients.
-- Introduce value-added services or product bundles that cater to the unique needs of these sectors.
+- 2. Expand Market Activities in France and Broader European Region:
+  - Given that France was identified as the most lucrative market within Europe, efforts should be made to intensify marketing, distribution, and partnership strategies in France. Additionally, consider exploring neighboring European countries with similar market dynamics to replicate this success.
 
 
-4. Segment-Based Strategic Planning:
+- 3. Boost Investment in High-Performing Products and Segments:
+  - The strong performance of the “Paseo” product in the Enterprise and Government sectors suggests a clear market demand in these areas. It is recommended to:
+  - Increase production and inventory levels for the Paseo product.
+  - Tailor marketing campaigns to specifically target enterprise and government clients.
+  - Introduce value-added services or product bundles that cater to the unique needs of these sectors.
 
-With Enterprise and Government segments showing high performance, develop customized engagement and retention strategies for these sectors. Consider offering sector-specific solutions, loyalty incentives, or dedicated account management to strengthen client relationships.
+
+- 4. Segment-Based Strategic Planning:
+  - With Enterprise and Government segments showing high performance, develop customized engagement and retention strategies for these sectors.
+  - Consider offering sector-specific solutions, loyalty incentives, or dedicated account management to strengthen client relationships.
 
 
-
-5. Monitor and Replicate Success Indicators:
-
-Use the data from November 2014 and France’s performance as a benchmark to identify key success drivers (e.g., pricing strategy, distribution channels, promotions) and replicate these strategies in other underperforming regions or months
+- 5. Monitor and Replicate Success Indicators:
+  - Use the data from November 2014 and France’s performance as a benchmark to identify key success drivers (e.g., pricing strategy, distribution channels, promotions) and replicate these strategies in other underperforming regions or months
 
 
 ### 😀  Thank you for reading, 
